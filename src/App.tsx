@@ -25,7 +25,7 @@ const App = () => {
     <ThemeProvider theme={theme}>
       <Page>
         <Title>
-          <h1>Exchange rates app</h1>
+          <h1>Currency Exchange Rates App</h1>
           <p>Select a currency to see last 7 days historical rates</p>
         </Title>
         <Container>
