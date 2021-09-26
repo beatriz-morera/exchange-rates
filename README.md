@@ -37,7 +37,7 @@ Create a `.env` file at root level with the following content:
 - [x] react-chartjs-2
 - [x] Styled Components
 - [x] Eslint (AirBnB configuration)
-- [x] Typescript
+- [x] TypeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
