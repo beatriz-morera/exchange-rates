@@ -1,10 +1,12 @@
-# Currency Exchange Rates App
-
 ![main workflow](https://github.com/beatriz-morera/exchange-rates/actions/workflows/main.yml/badge.svg?branch=main)
 
-Currency exchange rates app using the https://exchangeratesapi.io/.
+# Currency [Exchange Rates App](http://exchange-rates.morerabeatriz.com/)
+
+You can see the project running at http://exchange-rates.morerabeatriz.com/
 
 ![](./docs/app.gif)
+
+Currency exchange rates app using the https://exchangeratesapi.io/
 
 ## Functionalities
 

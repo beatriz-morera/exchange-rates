@@ -1,6 +1,6 @@
 import { RateHistory, Currency } from '../models';
 
-const BASE_URL = process.env.REACT_APP_BASE_URL;
+const BASE_URL = process.env.REACT_APP_BASE_URL || 'http://api.exchangeratesapi.io';
 const API_KEY = process.env.REACT_APP_API_KEY;
 
 function getDates() {
